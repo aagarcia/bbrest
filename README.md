@@ -66,7 +66,7 @@ Para inicializar se procede con el siguiente comando.
 npm install
 ```
 
-Despues de la instalacion de los paquetes necesarios se procede con la configuracion del archivo `.env` para la configuracion del proyecto este archivo esta en [directorio](https://github.com/aagarcia/bbrest/.env). El campo `TOKEN_SECRET` debe ser configurado para la generacion del *token*.
+Despues de la instalacion de los paquetes necesarios se procede con la configuracion del archivo `.env` para la configuracion del proyecto este archivo esta en [directorio](https://github.com/aagarcia/bbrest/blob/master/.env). El campo `TOKEN_SECRET` debe ser configurado para la generacion del *token*.
 
 Luego de la configuracion del archivo se procede con la ejecucion del servicio.
 
