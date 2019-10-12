@@ -1,0 +1,25 @@
+{
+    "name": "bbrest",
+    "version": "1.0.0",
+    "description": "Rest prueba",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "author": "Alex Garcia",
+    "license": "ISC",
+    "dependencies": {
+        "@hapi/joi": "^16.1.7",
+        "axios": "^0.19.0",
+        "bcryptjs": "^2.4.3",
+        "dotenv": "^8.1.0",
+        "dotenv-expand": "^5.1.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.7.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.3"
+    }
+}
